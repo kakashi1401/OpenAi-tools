@@ -557,4 +557,4 @@ if option == "How To Use The App":
         st.subheader(":point_right:[instagram](https://www.instagram.com/erfan.nt75/)")
 
     st.subheader("How To Use This App")
-    st.subheader(":point_right:[github](https://github.com/kakashi1401)")
+    st.subheader(":point_right:[github](https://github.com/kakashi1401/OpenAi-tools)")
