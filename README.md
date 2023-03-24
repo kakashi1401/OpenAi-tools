@@ -53,6 +53,7 @@ Summarizing the text: you can give a text to the tool and the tool will return y
 
 
 donate:
-کمک مالی به توسعه دهنده
+کمک مالی به توسعه دهنده<br>
+
 | btc: bc1quvdenj6zmr9sjpn4277zcunl5p6efm48rxdgtf
 | dogecoin: DT32dTaSWLTzzGZ2Gk2nzqEQZQFXQNUYDN
