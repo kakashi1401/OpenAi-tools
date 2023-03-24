@@ -52,3 +52,7 @@ Summarizing the text: you can give a text to the tool and the tool will return y
 خلاصه کردن متن : میتوانید یک متن را به ابزار بدهید و ابزار متن شما را به صورت خلاصه به شما برمیگرداند. شما میتوانید از هر زبانی این کار را انجام دهید و خروجی مربوطه در قالب زبان انگلیسی و فارسی برای شما برگردانده میشود.
 
 
+donate:
+کمک مالی به توسعه دهنده
+btc: bc1quvdenj6zmr9sjpn4277zcunl5p6efm48rxdgtf
+dogecoin: DT32dTaSWLTzzGZ2Gk2nzqEQZQFXQNUYDN
