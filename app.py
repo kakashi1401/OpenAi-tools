@@ -333,7 +333,7 @@ if option == "title generator":
             st.success (res_to_en)
             st.warning(res_to_farsi)
         if generate_content == "yes":
-            nubmer = st.slider("How Many Paragragh Do You Need ? " , 0 ,10 )
+            nubmer = st.slider("How Many Paragraph Do You Need ? " , 0 ,10 )
             nubmer_questions = st.slider("How Many Questions Do You Need ?" , 0 , 10 )
 
             AI_or_bing = st.selectbox("Generate Image Or Download Ready Image" , ("download" , "generate"))
